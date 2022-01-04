@@ -1,77 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T03:40:05.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9U-FC97alwCXCmDCB7Et" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T12:54:47.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8CCOQpjcMTdC2VQ5ShlB" version="16.1.4" type="github">
   <diagram id="LGCer4zTPvA7bBAQgkGl" name="Page-1">
-    <mxGraphModel dx="1886" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tTu_SfcotU36rbgenTqL-1" value="test" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-6" target="LGfNkO6MMqkLTUkeUoJ4-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="110" y="430" width="160" height="80" as="geometry" />
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-6" value="Bean定义" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-2" value="" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="160" height="100" as="geometry" />
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-7" target="LGfNkO6MMqkLTUkeUoJ4-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="120" relative="1" as="geometry">
-            <mxPoint x="200" y="620" as="sourcePoint" />
-            <mxPoint x="320" y="620" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-7" value="Bean初始化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="140" relative="1" as="geometry">
-            <mxPoint x="370" y="540" as="sourcePoint" />
-            <mxPoint x="510" y="540" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-8" target="LGfNkO6MMqkLTUkeUoJ4-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-5" value="" style="shape=stencil(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);fillColor=none;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="428.75" y="212.375" width="326.5" height="514.125" as="geometry" />
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-8" value="Bean生存期" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-6" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
-            <mxPoint x="440" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-9" value="Bean销毁" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-7" value="" style="shape=stencil(fZLdcsIgEIWfhtudZRfIcm31PZwxNoxp4sTY6tsLw9hKKrlblvPtDxzFm0u3P7eK8DJP46n9CYe5U/yhiMLQtVOYY6R4q3hzHKf2cxqvwyGfz/ukTNHX+J0q3DKHgJggwntOaPxN7TLQh+EFINAl4C2YFb0A60IvAiR1vfbQUAE0DsSuDOQAFwACuTrADmy5gvVATR0wAmgLwDTguA7EeiIFEHsaqgNxYl/ukLZaeSXhJaAZaKWDN8CmHOk54/tvwH/OWPoiBn+uOoa+z6Z8vV+6MKayg3n7AA==);fillColor=none;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="159" y="193" width="269.5" height="58" as="geometry" />
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-13" target="LGfNkO6MMqkLTUkeUoJ4-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="560" as="sourcePoint" />
-            <mxPoint x="440" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="580" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-13" value="资源定位" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-9" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="460" as="sourcePoint" />
-            <mxPoint x="460" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-14" target="LGfNkO6MMqkLTUkeUoJ4-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-10" value="" style="shape=message;html=1;outlineConnect=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="iMUlkX4QQGf1q9oCQd2y-9">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-14" value="资源解析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-11" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="350" as="sourcePoint" />
-            <mxPoint x="140" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-15" value="Bean定义发布" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-12" value="" style="shape=message;html=1;outlineConnect=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="iMUlkX4QQGf1q9oCQd2y-11">
-          <mxGeometry width="20" height="14" relative="1" as="geometry">
-            <mxPoint x="-10" y="-7" as="offset" />
-          </mxGeometry>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-17" target="LGfNkO6MMqkLTUkeUoJ4-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMUlkX4QQGf1q9oCQd2y-13" value="" style="shape=stencil(lVbLbhsxDPyavRKSKFHUOU3/I0CcelHXDhz39felsdA6VLyD5raWOXxzyIkf3vZPr7sphbfL+fR993t+vuwn/jKlNB/3u/N8sa+JHyd+eDmdd9/Op5/H5+X369NV8vr14/TrquHPggsUwhWUwt/h4esifpiP78QLlejEI0nZFo+VmldfKPK2PCfK4uQblldi9f5ECm0bkJXqEEAmAYCiVJIHmIq8DRChVhwgMYW6DaiJmo8hVcoRAISyd4mtCgoAps+7xKXXZQsQfZZyoIgsCCVvIVtaQeFqoZA9oFECaa2ZgnepMDWUJSapHmCFA71qAPUuib0k6BL7oKVRQBYKJV84U5E+ldbaus3/rLRa3lAMSsoeoLDSavzgAS1SxYCBAlqmCuZBY2+EFVBhDGah+rQ2G1ow07ckroBG8qmJiwHzZI2UeTRRQRBinRDGIBC1FpsgTxtNSIAFm8gyALi/3CfXPFrQBvOaMmVfOes+AUNt62FgAetH1EyRPwxE6nnbAlTPApbohlxaW2eljUoMAEbW7C0YkyGesZ01DES2rYdWUCT11Gf0XQFArDX8FrU1qoiNpedkBWTYfCpUfNB2N6A6WKuJn4cofRPfB2hnxhVgfC+gcOHDKWO3AOJvm8joo44BEo0NGPveWM+P+/KJxHskpIj5TN14LWUQsq77ae2kvmC2eC/6qjFFtE1Sb+TbtdeAvNjsDBWAO91OpeprHIazxD5uh+vLfDgsd+/7/8dD156WI5kf/wE=);fillColor=none;sketch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="686" y="162" width="72.625" height="222.125" as="geometry" />
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-17" value="Spring通过配置，如ComponentScan定义的路径找到@Component类" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-28" target="LGfNkO6MMqkLTUkeUoJ4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-28" value="找到资源后，开始解析，并将定义的信息保存起来。&lt;br&gt;此时还没有初始化Bean，也就没有Bean实例，仅仅是Bean定义" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGfNkO6MMqkLTUkeUoJ4-30" target="LGfNkO6MMqkLTUkeUoJ4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGfNkO6MMqkLTUkeUoJ4-30" value="将Bean定义发布到IoC容器中。&lt;br&gt;此时IoC容器中还没有Bean实例生成" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
