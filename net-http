@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T13:28:45.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="wB73UVTb8OXXIPFZ0FXR" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T14:24:06.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="EFmw9ThYHG1H_HDiF298" version="16.4.5" type="github">
   <diagram id="PHiU4bb-uAPwngsy8JDK" name="Page-1">
     <mxGraphModel dx="1108" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UiTp56Zs4cn5IWjcfD1B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UiTp56Zs4cn5IWjcfD1B-3" target="UiTp56Zs4cn5IWjcfD1B-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UiTp56Zs4cn5IWjcfD1B-3" value="http.HandleFunc(&quot;/&quot;, index)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UiTp56Zs4cn5IWjcfD1B-4" value="http.ListenAndServe(&quot;:8080&quot;, nil)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="260" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UiTp56Zs4cn5IWjcfD1B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UiTp56Zs4cn5IWjcfD1B-5" target="UiTp56Zs4cn5IWjcfD1B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UiTp56Zs4cn5IWjcfD1B-5" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;ServeMux.&lt;span style=&quot;color: rgb(220 , 220 , 170) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;HandleFunc&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="150" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UiTp56Zs4cn5IWjcfD1B-7" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;ServeMux.&lt;span style=&quot;color: #dcdcaa&quot;&gt;Handle&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="150" width="127.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
